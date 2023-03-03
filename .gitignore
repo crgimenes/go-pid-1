@@ -16,4 +16,5 @@
 
 init
 rootfs.cpio.gz
+.DS_Store
 
